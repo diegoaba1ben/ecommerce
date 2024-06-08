@@ -1,0 +1,134 @@
+# Node.js dependencies
+node_modules/
+vendor/
+
+# Angular dependencies
+bower_components/
+
+# Visual Studio Code settings
+.vscode/
+
+# IntelliJ IDEA settings
+.idea/
+
+# ASP .NET core settings
+bin/
+obj/
+wwwroot/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.logs
+*.cache
+*.old
+*.bak
+*.swp
+*.swo
+*.pid
+*.seed
+*.pid.lock
+
+# MySQL files
+*.sql
+*.mdb
+*.mdf
+*.ldf
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build directories
+/frontend/dist/
+/frontend/directories
+/backend/bin/
+/backend/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Generated files
+dist/
+coverage/
+npm-debug.log
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Security and authorization files
+*.pem
+*.key
+*.csr
+*.config
+**/config/security/*.json
+**/config/auth.yaml
+
+# Debug and test files
+*.debug
+*.test
+test/**
+**/__test__/**
+
+# Compilation and build files
+*.exe
+*.dll
+*.pdb
+
+# Third-party configuration files
+*.aws
+*.azure
+*.google
+
+# Documentation files
+!docs/**
+
+# License files
+!LICENSE
+!GPL
+
+# JetBrains Rider settings
+.idea/
+.idea/*
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/dictionaries
+
+# Local history
+.idea/.idea.history
+
+# Rider files
+*.sln.iml
+
+# Webpack files
+.next/
+out/
+build/
+
+# Docker files
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# Vagrant files
+.vagrant/
+
+# Other IDEs and tools
+/.sass-cache/
